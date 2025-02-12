@@ -15,7 +15,7 @@ const questions = [ {
     type: "input",
     message: "Provide a description of the project."
     },
-        
+    
     {
         name: "installation",
         type: "input",
@@ -51,7 +51,7 @@ const questions = [ {
                                 name: "github",
                                 type: "input",
                                 message: "What is your GitHub link?"
-                                }
+                                },
 ];
 
 // TODO: Create a function to write README file

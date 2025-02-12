@@ -1,7 +1,7 @@
-# ldkhf
-![GitHub license](https://img.shields.io/badge/license-kdsjfh-blue.svg)
+# mod 7
+![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ## Description
-sdlkjh
+mod 7
 
 ## Table of Contents
 * [Installation](#installation)
@@ -12,20 +12,20 @@ sdlkjh
 * [Questions](#questions)
 
 ## Installation
-lskdjf
+mod 7
 
 ## Usage
 undefined
 
 ## License
-undefined
-undefined
+MIT Licensed
+https://opensource.org/licenses/MIT
 
 ## Contributing
-ewoirh
+mod 7
 
 ## Tests
-ewoih
+mod 7
 
 ## Questions
-If you have any questions, please contact me at oreihf or check out my GitHub oeifj[reqo.
+If you have any questions, please contact me at mod 7 or check out my GitHub mod 7.
